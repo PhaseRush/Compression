@@ -1,0 +1,3 @@
+C:/Users/leozh/Documents/cs/cs221/pa3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/leozh/Documents/cs/cs221/pa3/cmake-build-debug/CMakeFiles/compression.dir
+C:/Users/leozh/Documents/cs/cs221/pa3/cmake-build-debug/CMakeFiles/edit_cache.dir
