@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.obj"
   "CMakeFiles/compression.dir/cs221util/PNG.cpp.obj"
   "CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj"
+  "CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj"
   "compression.pdb"
   "compression.exe"
   "compression.exe.manifest"

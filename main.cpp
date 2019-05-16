@@ -19,7 +19,8 @@ int main()
 
 	// read in an image
 	PNG origIm1;
-	origIm1.readFromFile("images/rap6.png");
+	origIm1.readFromFile("../images/rap6.png");
+	printf("height : %d \t width: %d", origIm1.height(), origIm1.width());
 
 	// use it to build a twoDtree
 	twoDtree t1(origIm1); //linker command failed
@@ -46,11 +47,11 @@ int main()
     PNG ppiccopy4 = tCopy4.render();
 
     // write the pngs to files.
-	ppic1.writeToFile("images/output-CP.png");
-	ppiccopy1.writeToFile("images/output-CP.2.png");
-	ppiccopy2.writeToFile("images/output-CP.1.png");
-	ppiccopy3.writeToFile("images/output-CP.05.png");
-	ppiccopy4.writeToFile("images/output-CP.025.png");
+	ppic1.writeToFile("../images/output-CP.png");
+	ppiccopy1.writeToFile("../images/output-CP.2.png");
+	ppiccopy2.writeToFile("../images/output-CP.1.png");
+	ppiccopy3.writeToFile("../images/output-CP.05.png");
+	ppiccopy4.writeToFile("../images/output-CP.025.png");
 
   return 0;
 }

@@ -203,6 +203,33 @@ cs221util/RGBAPixel.cpp.s:
 	$(MAKE) -f CMakeFiles\compression.dir\build.make CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.s
 .PHONY : cs221util/RGBAPixel.cpp.s
 
+cs221util/lodepng/lodepng.obj: cs221util/lodepng/lodepng.cpp.obj
+
+.PHONY : cs221util/lodepng/lodepng.obj
+
+# target to build an object file
+cs221util/lodepng/lodepng.cpp.obj:
+	$(MAKE) -f CMakeFiles\compression.dir\build.make CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj
+.PHONY : cs221util/lodepng/lodepng.cpp.obj
+
+cs221util/lodepng/lodepng.i: cs221util/lodepng/lodepng.cpp.i
+
+.PHONY : cs221util/lodepng/lodepng.i
+
+# target to preprocess a source file
+cs221util/lodepng/lodepng.cpp.i:
+	$(MAKE) -f CMakeFiles\compression.dir\build.make CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.i
+.PHONY : cs221util/lodepng/lodepng.cpp.i
+
+cs221util/lodepng/lodepng.s: cs221util/lodepng/lodepng.cpp.s
+
+.PHONY : cs221util/lodepng/lodepng.s
+
+# target to generate assembly for a file
+cs221util/lodepng/lodepng.cpp.s:
+	$(MAKE) -f CMakeFiles\compression.dir\build.make CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.s
+.PHONY : cs221util/lodepng/lodepng.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -302,6 +329,9 @@ help:
 	@echo ... cs221util/RGBAPixel.obj
 	@echo ... cs221util/RGBAPixel.i
 	@echo ... cs221util/RGBAPixel.s
+	@echo ... cs221util/lodepng/lodepng.obj
+	@echo ... cs221util/lodepng/lodepng.i
+	@echo ... cs221util/lodepng/lodepng.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

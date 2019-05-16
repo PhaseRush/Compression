@@ -57,6 +57,7 @@ include CMakeFiles/compression.dir/progress.make
 include CMakeFiles/compression.dir/flags.make
 
 CMakeFiles/compression.dir/main.cpp.obj: CMakeFiles/compression.dir/flags.make
+CMakeFiles/compression.dir/main.cpp.obj: CMakeFiles/compression.dir/includes_CXX.rsp
 CMakeFiles/compression.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/compression.dir/main.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\compression.dir\main.cpp.obj -c C:\Users\leozh\Documents\cs\cs221\pa3\main.cpp
@@ -70,6 +71,7 @@ CMakeFiles/compression.dir/main.cpp.s: cmake_force
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leozh\Documents\cs\cs221\pa3\main.cpp -o CMakeFiles\compression.dir\main.cpp.s
 
 CMakeFiles/compression.dir/stats.cpp.obj: CMakeFiles/compression.dir/flags.make
+CMakeFiles/compression.dir/stats.cpp.obj: CMakeFiles/compression.dir/includes_CXX.rsp
 CMakeFiles/compression.dir/stats.cpp.obj: ../stats.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/compression.dir/stats.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\compression.dir\stats.cpp.obj -c C:\Users\leozh\Documents\cs\cs221\pa3\stats.cpp
@@ -83,6 +85,7 @@ CMakeFiles/compression.dir/stats.cpp.s: cmake_force
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leozh\Documents\cs\cs221\pa3\stats.cpp -o CMakeFiles\compression.dir\stats.cpp.s
 
 CMakeFiles/compression.dir/twoDtree.cpp.obj: CMakeFiles/compression.dir/flags.make
+CMakeFiles/compression.dir/twoDtree.cpp.obj: CMakeFiles/compression.dir/includes_CXX.rsp
 CMakeFiles/compression.dir/twoDtree.cpp.obj: ../twoDtree.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/compression.dir/twoDtree.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\compression.dir\twoDtree.cpp.obj -c C:\Users\leozh\Documents\cs\cs221\pa3\twoDtree.cpp
@@ -96,6 +99,7 @@ CMakeFiles/compression.dir/twoDtree.cpp.s: cmake_force
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leozh\Documents\cs\cs221\pa3\twoDtree.cpp -o CMakeFiles\compression.dir\twoDtree.cpp.s
 
 CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.obj: CMakeFiles/compression.dir/flags.make
+CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.obj: CMakeFiles/compression.dir/includes_CXX.rsp
 CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.obj: ../cs221util/HSLAPixel.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\compression.dir\cs221util\HSLAPixel.cpp.obj -c C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\HSLAPixel.cpp
@@ -109,6 +113,7 @@ CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.s: cmake_force
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\HSLAPixel.cpp -o CMakeFiles\compression.dir\cs221util\HSLAPixel.cpp.s
 
 CMakeFiles/compression.dir/cs221util/PNG.cpp.obj: CMakeFiles/compression.dir/flags.make
+CMakeFiles/compression.dir/cs221util/PNG.cpp.obj: CMakeFiles/compression.dir/includes_CXX.rsp
 CMakeFiles/compression.dir/cs221util/PNG.cpp.obj: ../cs221util/PNG.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/compression.dir/cs221util/PNG.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\compression.dir\cs221util\PNG.cpp.obj -c C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\PNG.cpp
@@ -122,6 +127,7 @@ CMakeFiles/compression.dir/cs221util/PNG.cpp.s: cmake_force
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\PNG.cpp -o CMakeFiles\compression.dir\cs221util\PNG.cpp.s
 
 CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj: CMakeFiles/compression.dir/flags.make
+CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj: CMakeFiles/compression.dir/includes_CXX.rsp
 CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj: ../cs221util/RGBAPixel.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\compression.dir\cs221util\RGBAPixel.cpp.obj -c C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\RGBAPixel.cpp
@@ -134,6 +140,20 @@ CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\RGBAPixel.cpp -o CMakeFiles\compression.dir\cs221util\RGBAPixel.cpp.s
 
+CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj: CMakeFiles/compression.dir/flags.make
+CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj: CMakeFiles/compression.dir/includes_CXX.rsp
+CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj: ../cs221util/lodepng/lodepng.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\compression.dir\cs221util\lodepng\lodepng.cpp.obj -c C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\lodepng\lodepng.cpp
+
+CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\lodepng\lodepng.cpp > CMakeFiles\compression.dir\cs221util\lodepng\lodepng.cpp.i
+
+CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leozh\Documents\cs\cs221\pa3\cs221util\lodepng\lodepng.cpp -o CMakeFiles\compression.dir\cs221util\lodepng\lodepng.cpp.s
+
 # Object files for target compression
 compression_OBJECTS = \
 "CMakeFiles/compression.dir/main.cpp.obj" \
@@ -141,7 +161,8 @@ compression_OBJECTS = \
 "CMakeFiles/compression.dir/twoDtree.cpp.obj" \
 "CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.obj" \
 "CMakeFiles/compression.dir/cs221util/PNG.cpp.obj" \
-"CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj"
+"CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj" \
+"CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj"
 
 # External object files for target compression
 compression_EXTERNAL_OBJECTS =
@@ -152,11 +173,12 @@ compression.exe: CMakeFiles/compression.dir/twoDtree.cpp.obj
 compression.exe: CMakeFiles/compression.dir/cs221util/HSLAPixel.cpp.obj
 compression.exe: CMakeFiles/compression.dir/cs221util/PNG.cpp.obj
 compression.exe: CMakeFiles/compression.dir/cs221util/RGBAPixel.cpp.obj
+compression.exe: CMakeFiles/compression.dir/cs221util/lodepng/lodepng.cpp.obj
 compression.exe: CMakeFiles/compression.dir/build.make
 compression.exe: CMakeFiles/compression.dir/linklibs.rsp
 compression.exe: CMakeFiles/compression.dir/objects1.rsp
 compression.exe: CMakeFiles/compression.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable compression.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\leozh\Documents\cs\cs221\pa3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable compression.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\compression.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -34,6 +34,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="C:/Users/leozh/Documents/cs/cs221/pa3"/>
+					<Add directory="C:/Users/leozh/Documents/cs/cs221/pa3/cs221util"/>
+					<Add directory="C:/Users/leozh/Documents/cs/cs221/pa3/cs221util/lodepng"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -55,6 +58,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="C:/Users/leozh/Documents/cs/cs221/pa3"/>
+					<Add directory="C:/Users/leozh/Documents/cs/cs221/pa3/cs221util"/>
+					<Add directory="C:/Users/leozh/Documents/cs/cs221/pa3/cs221util/lodepng"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -96,6 +102,12 @@
 			<Option target="compression"/>
 		</Unit>
 		<Unit filename="C:/Users/leozh/Documents/cs/cs221/pa3/cs221util/RGBAPixel.h">
+			<Option target="compression"/>
+		</Unit>
+		<Unit filename="C:/Users/leozh/Documents/cs/cs221/pa3/cs221util/lodepng/lodepng.cpp">
+			<Option target="compression"/>
+		</Unit>
+		<Unit filename="C:/Users/leozh/Documents/cs/cs221/pa3/cs221util/lodepng/lodepng.h">
 			<Option target="compression"/>
 		</Unit>
 		<Unit filename="C:/Users/leozh/Documents/cs/cs221/pa3/main.cpp">
